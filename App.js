@@ -24,6 +24,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import Mapview from './src/components/mapview';
+
 const App = () => {
   return (
     <>
